@@ -2,6 +2,22 @@
 
 Collection of 15 functional, tested Python projects for learning and portfolio.
 
+Repository: https://github.com/0xyz-exe/python-mini-projects
+
+## Screenshots
+
+### FastAPI Interactive Swagger / OpenAPI Docs
+![FastAPI Docs](docs/screenshots/01_fastapi_docs.png)
+
+### CLI Task Manager & Terminal UI
+![CLI Tasks](docs/screenshots/02_cli_tasks.png)
+
+### Expense Tracker & Summary Reports
+![Expense Tracker](docs/screenshots/03_expense_tracker.png)
+
+### Text & Log Analyzer Output
+![Log Analyzer](docs/screenshots/04_log_analyzer.png)
+
 ## Projects
 
 ### 01. CLI Task Manager
