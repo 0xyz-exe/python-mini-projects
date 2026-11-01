@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "type": "income",
+    "amount": 5400.0,
+    "category": "Salary",
+    "description": "Monthly Engineering Retainer",
+    "date": "2026-11-01"
+  },
+  {
+    "id": 2,
+    "type": "expense",
+    "amount": 650.0,
+    "category": "Hosting",
+    "description": "AWS Production Cluster & S3",
+    "date": "2026-11-01"
+  },
+  {
+    "id": 3,
+    "type": "expense",
+    "amount": 120.0,
+    "category": "Software",
+    "description": "GitHub Enterprise & JetBrains",
+    "date": "2026-11-01"
+  },
+  {
+    "id": 4,
+    "type": "expense",
+    "amount": 340.0,
+    "category": "Hardware",
+    "description": "Mechanical Keyboard & Hub",
+    "date": "2026-11-01"
+  }
+]

@@ -1,0 +1,10 @@
+2026-11-01 02:15:10 [INFO] System initialized on cluster node worker-01.
+2026-11-01 02:15:12 [INFO] Connection pool allocated: 25 active connections to postgres://127.0.0.1:5432/documind.
+2026-11-01 02:16:04 [WARN] High memory consumption detected on worker thread 3 (RSS > 850MB).
+2026-11-01 02:17:33 [INFO] Background crawler indexed 142 Markdown documents in 4.2 seconds.
+2026-11-01 02:18:45 [ERROR] Upstream timeout reaching model endpoint https://api.router.local/v1/embeddings (socket reset).
+2026-11-01 02:18:46 [INFO] Exponential backoff retry scheduled for request id #88192a.
+2026-11-01 02:18:49 [INFO] Retry attempt 1 succeeded (HTTP 200 OK, latency: 124ms).
+2026-11-01 02:20:12 [ERROR] Failed to parse corrupted PDF header for payload /tmp/scan_09.pdf: Invalid header byte.
+2026-11-01 02:22:01 [CRITICAL] Cryptographic SHA-256 mismatch detected in storage blob digest: e3b0c44 != 7a8f90.
+2026-11-01 02:22:05 [INFO] Automated recovery pipeline triggered: quarantined invalid blob and restored replica.
