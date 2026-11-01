@@ -6,16 +6,20 @@ Repository: https://github.com/0xyz-exe/python-mini-projects
 
 ## Screenshots
 
-### FastAPI Interactive Swagger / OpenAPI Docs
+### 1. FastAPI Interactive Swagger / OpenAPI Docs
+Dokumentasi interaktif OpenAPI 3.1 & Swagger UI untuk layanan Notes REST API lengkap dengan definisi skema Pydantic, HTTP response codes, dan verifikasi endpoint:
 ![FastAPI Docs](docs/screenshots/01_fastapi_docs.png)
 
-### CLI Task Manager & Terminal UI
+### 2. CLI Task Manager & Terminal UI
+Aplikasi manajemen tugas berbasis terminal dengan penyimpanan persisten `tasks.json`, filter prioritas (High, Medium, Low), pelacakan tenggat waktu, dan status penyelesaian:
 ![CLI Tasks](docs/screenshots/02_cli_tasks.png)
 
-### Expense Tracker & Summary Reports
+### 3. Expense Tracker & Monthly Summary Reports
+Pelacak anggaran keuangan pribadi berbasis CLI dengan perhitungan neraca saldo bulanan otomatis, rekonsiliasi arus kas, serta pemetaan pengeluaran per kategori:
 ![Expense Tracker](docs/screenshots/03_expense_tracker.png)
 
-### Text & Log Analyzer Output
+### 4. Text & Log Analyzer Output
+Penganalisis file log dan teks untuk audit telemetri operasional, distribusi tingkat keparahan error (ERROR, WARN, INFO), dan ringkasan metrik statistik karakter/kata:
 ![Log Analyzer](docs/screenshots/04_log_analyzer.png)
 
 ## Projects

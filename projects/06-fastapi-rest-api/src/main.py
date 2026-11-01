@@ -113,6 +113,8 @@ def create_app(storage_path: Path = Path("notes.json")) -> FastAPI:
     return app
 
 
+app = create_app()
+
 if __name__ == "__main__":
     import uvicorn
     app = create_app()
